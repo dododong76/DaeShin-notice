@@ -1,0 +1,21 @@
+img {
+  width: 70vw;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -40%);
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.cen {
+  border: solid 3px black;
+  width: 80vw;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -47%);
+}
